@@ -14,7 +14,7 @@ The process involved:
 
 I was wearing these badges at the bi-annual UK hacker camp ElectroMagnetic Field (EMF). They didn’t quite get the interest I expected. Perhaps they were over-shadow by another of my projects: the LED light staff!
 
-The KiCad and Gerber files using the skull graphic from vectormagic.com are notable only by their absence. Apologies for that. I wanted to make sure I was on the right side of their licence and wasn't sure if this would count as distributing via another website. I assume their liscence is referring to distributing the vector original but don't want to risk it.
+The KiCad and Gerber files using the skull graphic from vectormagic.com are notable only by their absence. Apologies for that. I wanted to make sure I was on the right side of their licence and wasn't sure if this would count as distributing via another website. I assume their licence is referring to distributing the vector original but don't want to risk it.
 
 
 ![Badge Front](badge_front.jpg?raw=true "Front view")
