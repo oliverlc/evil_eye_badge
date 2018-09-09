@@ -1,0 +1,6 @@
+So this embedded software was a smush together of two different examples posted online.
+
+Combined they did exactly what I wanted to I didn't iterate any further.
+
+I found these examples in this forum thread:
+https://www.avrfreaks.net/forum/sample-project-attiny10

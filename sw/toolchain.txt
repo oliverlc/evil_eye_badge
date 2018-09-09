@@ -1,0 +1,13 @@
+
+Toolchain:
+
+    • AVR-gcc compiler
+    • avrdude with a usbasp programmer
+
+The commands used were:
+
+Compile
+avr-gcc -g -Os -mmcu=attiny10 -c watchdog.c; avr-gcc -g -mmcu=attiny10 -o watchdog.elf watchdog.o; avr-objcopy -j .text -j .data -O ihex watchdog.elf watchdog.hex
+
+Program
+sudo avrdude -c usbasp-clone -P usb -p t10 -U flash:w:watchdog.hex
